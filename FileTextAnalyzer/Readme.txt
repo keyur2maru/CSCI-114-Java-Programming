@@ -1,9 +1,10 @@
 Functionality:
-1) Counts the number of total lines in the inputfile.
-2) Counts the number	of total words in the inputfile.
-3) Counts the number of total characters in the inputfile.
-4) Calculate frequency of all characters (only 26 characters in English alphabet) in	the inputfile.
-5) Writes the results	to the output file:
+1) Reads a text file file from a given URL
+2) Counts the number of total lines in the inputfile.
+3) Counts the number	of total words in the inputfile.
+4) Counts the number of total characters in the inputfile.
+5) Calculate frequency of all characters (only 26 characters in English alphabet) in	the inputfile.
+6) Writes the results	to the output file:
 
 Usage:
 The	usage	of this program	is as following (Please	note:	The	output	file	name	is	the	first	
